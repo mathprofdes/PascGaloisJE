@@ -1,4 +1,9 @@
 # PascGaloisJE
+
+The PascGalois JE and PascGalois Zn programs were developed in support of the *The PascGalois Project: Visualizing Abstract Mathematics*, created by Dr. Mike Bardzell and Dr. Kathleen Shannon at Salisbury University in Salisbury Maryland.  The PascGalois Project was made possible through two grants from the National Science Foundation, DUE-0087644 and DUE-0339477.  For more information, articles, and classroom resources, please see our website at [The PascGalois Project: Visualizing Abstract Mathematics](https://faculty.salisbury.edu/~despickler/pascgalois/index.html).
+
+---
+
 PascGalois JE is a platform independent program developed for the exploration of one and two dimensional cellular automata over finite group structures. The supported group structures are Zn, Zn (under multiplication), Dn, Sn, the Quaternions, Qn (Generalized Quaternions) and Cn (Dicyclic groups). This is a Java application, so if the Java JRE is not installed on your computer download and install the current version of the Java JRE (Version 8 or later). You can get the most current version at the Java Web Site.  The software was created using the older Java Swing API, so the appearance is a little retro. This software has been tested on Windows 10 and 11, Linux Mint 21, and MacOS Mojave.
 
 **Windows Users**
