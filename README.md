@@ -32,6 +32,8 @@ The software is being distributed as an executable jar file. In most cases you c
 - POV-Ray export facilities for 2-D automata.
 - Level and probability density plot capabilities.
 
+**Note:** If you only need to explore cellular automata over Zn but want the added ability to use both addition and multiplication in the update rule, you might be interested in the PascGalois Zn program that is available in my PascGaloisZn repository.
+
 ---
 
 **Screenshots**
