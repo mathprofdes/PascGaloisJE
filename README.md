@@ -1,6 +1,6 @@
 # PascGaloisJE
 
-The PascGalois JE and PascGalois Zn programs were developed in support of the *The PascGalois Project: Visualizing Abstract Mathematics*, created by Dr. Mike Bardzell and Dr. Kathleen Shannon at Salisbury University in Salisbury Maryland.  The PascGalois Project was made possible through two grants from the National Science Foundation, DUE-0087644 and DUE-0339477.  For more information, articles, and classroom resources, please see our website at [The PascGalois Project: Visualizing Abstract Mathematics](https://faculty.salisbury.edu/~despickler/pascgalois/index.html).
+The PascGalois JE and PascGalois Zn programs were developed in support of the *The PascGalois Project: Visualizing Abstract Mathematics*, created by Dr. Mike Bardzell and Dr. Kathleen Shannon at Salisbury University in Salisbury Maryland.  The PascGalois Project was made possible through two grants from the National Science Foundation, DUE-0087644 and DUE-0339477.  For more information, articles, and classroom resources, please see our website at **[The PascGalois Project: Visualizing Abstract Mathematics](https://faculty.salisbury.edu/~despickler/pascgalois/index.html)**.
 
 ---
 
