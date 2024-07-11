@@ -28,7 +28,7 @@ The software is being distributed as an executable jar file.
 
 **Other Files**
 
-- The **[ProgramIcon.png](https://github.com/mathprofdes/PascGaloisJE/releases/download/v2.6.1/ProgramIcon.png)** file is just a a png file of the application icon, for shortcuts if you wish to use one.
+- The **[ProgramIcon.png](https://github.com/mathprofdes/PascGaloisJE/releases/download/v2.6.1/ProgramIcon.png)** file is just a png image file of the application icon, for shortcuts if you wish to use one.
 - The **[PascGaloisJE_Users_Manual.pdf](https://github.com/mathprofdes/PascGaloisJE/releases/download/v2.6.1/PascGaloisJE_Users_Manual.pdf)** file is a short document to help you get started with the program and its functionality.  Note that this was written prior to the current version but contains descriptions of all the program features.  One exception to this is that the current version removed the 3-D viewer for 2-D automata. This removed the dependency on third party libraries and made the program more stable across platforms.
 
 --- 
