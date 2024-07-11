@@ -58,10 +58,7 @@ PascGalois JE is a platform independent program developed for the exploration of
 **Screenshots**
 
 ![Screenshot of program.](/Version_2_6_1/Screenshots/PascGaloisPic001t.png)
-
 ![Screenshot of program.](/Version_2_6_1/Screenshots/PascGaloisPic002t.png)
-
 ![Screenshot of program.](/Version_2_6_1/Screenshots/PascGaloisPic003t.png)
-
 ![Screenshot of program.](/Version_2_6_1/Screenshots/PascGaloisPic004t.png)
 
