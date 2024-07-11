@@ -4,8 +4,6 @@ The PascGalois JE and PascGalois Zn programs were developed in support of the *T
 
 ---
 
-**[Download the current version (2.6.1)](https://github.com/mathprofdes/PascGaloisJE/releases/tag/v2.6.1)**
-
 **Download the Current Version (2.6.1)**
 
 **Prerequisite:** If the Java JRE is not installed on your computer download and install the current version of the Java JRE (Version 8 or later).
